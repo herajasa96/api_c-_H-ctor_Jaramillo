@@ -1,0 +1,132 @@
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\appsettings.json
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\web_api_practica.exe
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\web_api_practica.deps.json
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\web_api_practica.runtimeconfig.json
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\web_api_practica.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\ref\web_api_practica.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\web_api_practica.pdb
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\obj\Debug\net6.0\web_api_practica.GlobalUsings.g.cs
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\obj\Debug\net6.0\web_api_practica.csproj.AssemblyReference.cache
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\obj\Debug\net6.0\web_api_practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\obj\Debug\net6.0\web_api_practica.AssemblyInfoInputs.cache
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\obj\Debug\net6.0\web_api_practica.AssemblyInfo.cs
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\obj\Debug\net6.0\web_api_practica.csproj.CoreCompileInputs.cache
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\obj\Debug\net6.0\web_api_practica.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\obj\Debug\net6.0\web_api_practica.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\obj\Debug\net6.0\scopedcss\bundle\web_api_practica.styles.css
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\obj\Debug\net6.0\web_api_practica.csproj.CopyComplete
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\obj\Debug\net6.0\web_api_practica.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\obj\Debug\net6.0\ref\web_api_practica.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\obj\Debug\net6.0\web_api_practica.pdb
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\obj\Debug\net6.0\web_api_practica.genruntimeconfig.cache
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\CORE.Connection.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\Dapper.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\Zstandard.Net.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\practica_entrega.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\web_api_practica\bin\Debug\net6.0\practica_entrega.pdb
+G:\practica_entrega\web_api_practica\obj\Debug\net6.0\web_api_practica.GlobalUsings.g.cs
+G:\practica_entrega\web_api_practica\obj\Debug\net6.0\web_api_practica.csproj.AssemblyReference.cache
+G:\practica_entrega\web_api_practica\obj\Debug\net6.0\web_api_practica.GeneratedMSBuildEditorConfig.editorconfig
+G:\practica_entrega\web_api_practica\obj\Debug\net6.0\web_api_practica.AssemblyInfoInputs.cache
+G:\practica_entrega\web_api_practica\obj\Debug\net6.0\web_api_practica.AssemblyInfo.cs
+G:\practica_entrega\web_api_practica\obj\Debug\net6.0\web_api_practica.csproj.CoreCompileInputs.cache
+G:\practica_entrega\web_api_practica\obj\Debug\net6.0\web_api_practica.MvcApplicationPartsAssemblyInfo.cs
+G:\practica_entrega\web_api_practica\obj\Debug\net6.0\web_api_practica.MvcApplicationPartsAssemblyInfo.cache
+G:\practica_entrega\web_api_practica\obj\Debug\net6.0\web_api_practica.dll
+G:\practica_entrega\web_api_practica\obj\Debug\net6.0\ref\web_api_practica.dll
+G:\practica_entrega\web_api_practica\obj\Debug\net6.0\web_api_practica.pdb
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\appsettings.Development.json
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\appsettings.json
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\web_api_practica.staticwebassets.runtime.json
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\web_api_practica.exe
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\web_api_practica.deps.json
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\web_api_practica.runtimeconfig.json
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\web_api_practica.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\ref\web_api_practica.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\web_api_practica.pdb
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\CORE.Connection.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\Dapper.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\Google.Protobuf.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\MySql.Data.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\Zstandard.Net.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\practica_2_nuguets.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\System.Data.SqlClient.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\practica_entrega.dll
+G:\practica_entrega\web_api_practica\bin\Debug\net6.0\practica_entrega.pdb
+G:\practica_entrega\web_api_practica\obj\Debug\net6.0\staticwebassets.build.json
+G:\practica_entrega\web_api_practica\obj\Debug\net6.0\staticwebassets.development.json
+G:\practica_entrega\web_api_practica\obj\Debug\net6.0\scopedcss\bundle\web_api_practica.styles.css
+G:\practica_entrega\web_api_practica\obj\Debug\net6.0\web_api_practica.csproj.CopyComplete
+G:\practica_entrega\web_api_practica\obj\Debug\net6.0\web_api_practica.genruntimeconfig.cache

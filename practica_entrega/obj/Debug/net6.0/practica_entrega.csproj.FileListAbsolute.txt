@@ -1,0 +1,25 @@
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\practica_entrega\obj\Debug\net6.0\practica_entrega.GlobalUsings.g.cs
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\practica_entrega\obj\Debug\net6.0\practica_entrega.csproj.AssemblyReference.cache
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\practica_entrega\obj\Debug\net6.0\practica_entrega.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\practica_entrega\obj\Debug\net6.0\practica_entrega.AssemblyInfoInputs.cache
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\practica_entrega\obj\Debug\net6.0\practica_entrega.AssemblyInfo.cs
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\practica_entrega\obj\Debug\net6.0\practica_entrega.csproj.CoreCompileInputs.cache
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\practica_entrega\bin\Debug\net6.0\practica_entrega.deps.json
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\practica_entrega\bin\Debug\net6.0\practica_entrega.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\practica_entrega\bin\Debug\net6.0\ref\practica_entrega.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\practica_entrega\bin\Debug\net6.0\practica_entrega.pdb
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\practica_entrega\obj\Debug\net6.0\practica_entrega.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\practica_entrega\obj\Debug\net6.0\ref\practica_entrega.dll
+C:\Users\Héctor Jaramillo\source\repos\practica_entrega\practica_entrega\obj\Debug\net6.0\practica_entrega.pdb
+G:\practica_entrega\practica_entrega\obj\Debug\net6.0\practica_entrega.GlobalUsings.g.cs
+G:\practica_entrega\practica_entrega\obj\Debug\net6.0\practica_entrega.GeneratedMSBuildEditorConfig.editorconfig
+G:\practica_entrega\practica_entrega\obj\Debug\net6.0\practica_entrega.AssemblyInfoInputs.cache
+G:\practica_entrega\practica_entrega\obj\Debug\net6.0\practica_entrega.AssemblyInfo.cs
+G:\practica_entrega\practica_entrega\obj\Debug\net6.0\practica_entrega.csproj.CoreCompileInputs.cache
+G:\practica_entrega\practica_entrega\bin\Debug\net6.0\practica_entrega.deps.json
+G:\practica_entrega\practica_entrega\bin\Debug\net6.0\practica_entrega.dll
+G:\practica_entrega\practica_entrega\bin\Debug\net6.0\ref\practica_entrega.dll
+G:\practica_entrega\practica_entrega\bin\Debug\net6.0\practica_entrega.pdb
+G:\practica_entrega\practica_entrega\obj\Debug\net6.0\practica_entrega.dll
+G:\practica_entrega\practica_entrega\obj\Debug\net6.0\ref\practica_entrega.dll
+G:\practica_entrega\practica_entrega\obj\Debug\net6.0\practica_entrega.pdb
