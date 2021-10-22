@@ -1,0 +1,26 @@
+C:\Users\Héctor Jaramillo\source\repos\core_conection\core_conection\obj\Debug\net6.0\core_conection.GlobalUsings.g.cs
+C:\Users\Héctor Jaramillo\source\repos\core_conection\core_conection\obj\Debug\net6.0\core_conection.csproj.AssemblyReference.cache
+C:\Users\Héctor Jaramillo\source\repos\core_conection\core_conection\obj\Debug\net6.0\core_conection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Héctor Jaramillo\source\repos\core_conection\core_conection\obj\Debug\net6.0\core_conection.AssemblyInfoInputs.cache
+C:\Users\Héctor Jaramillo\source\repos\core_conection\core_conection\obj\Debug\net6.0\core_conection.AssemblyInfo.cs
+C:\Users\Héctor Jaramillo\source\repos\core_conection\core_conection\obj\Debug\net6.0\core_conection.csproj.CoreCompileInputs.cache
+C:\Users\Héctor Jaramillo\source\repos\core_conection\core_conection\bin\Debug\net6.0\core_conection.deps.json
+C:\Users\Héctor Jaramillo\source\repos\core_conection\core_conection\bin\Debug\net6.0\core_conection.dll
+C:\Users\Héctor Jaramillo\source\repos\core_conection\core_conection\bin\Debug\net6.0\ref\core_conection.dll
+C:\Users\Héctor Jaramillo\source\repos\core_conection\core_conection\bin\Debug\net6.0\core_conection.pdb
+C:\Users\Héctor Jaramillo\source\repos\core_conection\core_conection\obj\Debug\net6.0\core_conection.dll
+C:\Users\Héctor Jaramillo\source\repos\core_conection\core_conection\obj\Debug\net6.0\ref\core_conection.dll
+C:\Users\Héctor Jaramillo\source\repos\core_conection\core_conection\obj\Debug\net6.0\core_conection.pdb
+G:\core_conection\core_conection\bin\Debug\net6.0\core_conection.deps.json
+G:\core_conection\core_conection\bin\Debug\net6.0\core_conection.dll
+G:\core_conection\core_conection\bin\Debug\net6.0\ref\core_conection.dll
+G:\core_conection\core_conection\bin\Debug\net6.0\core_conection.pdb
+G:\core_conection\core_conection\obj\Debug\net6.0\core_conection.GlobalUsings.g.cs
+G:\core_conection\core_conection\obj\Debug\net6.0\core_conection.csproj.AssemblyReference.cache
+G:\core_conection\core_conection\obj\Debug\net6.0\core_conection.GeneratedMSBuildEditorConfig.editorconfig
+G:\core_conection\core_conection\obj\Debug\net6.0\core_conection.AssemblyInfoInputs.cache
+G:\core_conection\core_conection\obj\Debug\net6.0\core_conection.AssemblyInfo.cs
+G:\core_conection\core_conection\obj\Debug\net6.0\core_conection.csproj.CoreCompileInputs.cache
+G:\core_conection\core_conection\obj\Debug\net6.0\core_conection.dll
+G:\core_conection\core_conection\obj\Debug\net6.0\ref\core_conection.dll
+G:\core_conection\core_conection\obj\Debug\net6.0\core_conection.pdb
